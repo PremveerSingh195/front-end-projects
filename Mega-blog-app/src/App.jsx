@@ -6,7 +6,7 @@ function App() {
 
   return (
       <div>
-        <h1>Blog app with appwrite</h1>
+        <h1>Blog app with appwrite git test</h1>
       </div>
   )
 }
